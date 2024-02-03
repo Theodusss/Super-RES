@@ -82,8 +82,12 @@ tensorboard --logdir='ex_TecoGANmm-dd-hh/log' --port=8008
 ```
 
 
-### Tensorboard GIF Summary Example
-<img src="resources/gif_summary_example.gif" alt="gif_summary_example" width="600" hspace="150"/><br>
+### Bazı örnekler
+<img src="resources/tecoGAN-lizard.gif" alt="Lizard" width="900"/><br>
+
+<img src="resources/tecoGAN-armour.gif" alt="Armor" width="900"/><br>
+
+<img src="resources/tecoGAN-spider.gif" alt="Spider" width="600" hspace="150"/><br>
 
 ### Referanslar
 [1] [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS)](https://github.com/richzhang/PerceptualSimilarity)  
